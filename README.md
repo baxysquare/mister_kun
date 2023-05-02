@@ -11,4 +11,4 @@
 - **3D Emblem:** A 3D STL file for people to use for 3D printing.  If you want a 2 color effect like the original, start with a white filament and swap to a black filament at 33-34 percent.
 - **8-Bit:** Created a sprite version by downscaling the original and drawing it out in pixel format.  There are full-color, grayscale, black & white and STL files available.
 
-![MiSTer Kun - The MiSTer Mascot](https://raw.githubusercontent.com/baxysquare/mister_kun/6019285187b7bacda623c1f46213bbc4530d6fa2/mister_kun_project_art.svg)
+![MiSTer Kun - The MiSTer Mascot](https://raw.githubusercontent.com/baxysquare/mister_kun/1b59a559a49ab65617256a01b8359e2c2e48ebc2/mister_kun_project_art.svg)
